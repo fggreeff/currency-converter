@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fggreeff/currency-converter/issues"
   },
-  "homepage": "https://github.com/fggreeff/currency-converter#readme"
+  "homepage": "https://github.com/fggreeff/currency-converter#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
