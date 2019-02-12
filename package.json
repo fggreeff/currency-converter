@@ -1,0 +1,24 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "The service gives information on exchanging currencies and where you can spend them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fggreeff/currency-converter.git"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "async-await"
+  ],
+  "author": "Francois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fggreeff/currency-converter/issues"
+  },
+  "homepage": "https://github.com/fggreeff/currency-converter#readme"
+}
